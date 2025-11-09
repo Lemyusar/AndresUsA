@@ -38,12 +38,12 @@
 </p>
 
 ## 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=AndresUsA&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndresUsA&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresUsA&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Lemyusar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lemyusar&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemyusar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Aportaciones
-![](https://github-contributor-stats.vercel.app/api?username=AndresUsA&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Lemyusar&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ## Contribuciones
 
